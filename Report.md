@@ -35,7 +35,7 @@ Actor and Critic are using Adam optimizer
 - Fully connected layer - input: 128 - output: 1
 
 ## Parameters
-'''
+```
 BUFFER_SIZE = int(1e6)  # replay buffer size
 BATCH_SIZE = 128        # minibatch size
 LR_ACTOR = 1e-3         # learning rate of the actor
@@ -50,15 +50,13 @@ OU_THETA = 0.12         # Ornstein-Uhlenbeck noise parameter, speed of mean reve
 EPS_START = 5.5         # initial value for epsilon in noise decay process in Agent.act()
 EPS_EP_END = 250        # episode to end the noise decay process
 EPS_FINAL = 0           # final value for epsilon after decay
-'''
+```
 
 ## Results
 ```
-Goal reached in 1242 episodes!                 
-Moving Average: 0.505 over past 100 episodes
 Episodes 1350 (52 sec)	Max Reward: 4.700	Moving Average: 0.562
 ```
-The Environment is solved in 1242 episodes!	with a Moving Average of 0.505 over last 100 episodes
+The Environment is solved in 1342 episodes!	with a Moving Average of 0.505 over last 100 episodes
 
 <img src="https://github.com/ga32riv/Project-3-collaboration_and_competition/blob/main/Score%20plot.png" width="400" height="300">
 
