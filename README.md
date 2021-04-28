@@ -100,4 +100,4 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 ### Instructions
 
-Follow the instructions in `Tennis.ipynb` to get started with training your own agent!  
+Follow the instructions in `Tennis.ipynb` to get started and train the agent.
