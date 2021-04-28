@@ -22,7 +22,7 @@ The agents was trained using [a single-agent DDPG](https://github.com/udacity/de
 
 ## NN Model Architecture
 
-Actor and Critic are using Afam optimizer
+Actor and Critic are using Adam optimizer
 
 # *Actor* :
 
