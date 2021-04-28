@@ -66,7 +66,8 @@ Episodes 1350 (52 sec)	Max Reward: 4.700	Moving Average: 0.562
 The Environment is solved in 1242 episodes!	with a Moving Average of 0.505 over last 100 episodes
 
 ![Average Reward][image1]
-![Reward each Episode][image2]
+<img src="https://github.com/ga32riv/Project-3-collaboration_and_competition/blob/main/Score%20plot.png" width="100" height="100">
+
 
 ## Ideas for Future Work
 1. Compare the results with other algorithms, for example PPO.
