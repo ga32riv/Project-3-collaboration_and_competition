@@ -1,8 +1,3 @@
-[//]: # (Image References)
-
-[image1]: https://github.com/ga32riv/Project-3-collaboration_and_competition/blob/main/Average%20plot.png "Average Reward"
-
-[image2]: https://github.com/ga32riv/Project-3-collaboration_and_competition/blob/main/Score%20plot.png "Reward each Episode"
 
 # Report
 
@@ -65,10 +60,10 @@ Episodes 1350 (52 sec)	Max Reward: 4.700	Moving Average: 0.562
 ```
 The Environment is solved in 1242 episodes!	with a Moving Average of 0.505 over last 100 episodes
 
-<img src="https://github.com/ga32riv/Project-3-collaboration_and_competition/blob/main/Score%20plot.png" width="400" height="400">
+<img src="https://github.com/ga32riv/Project-3-collaboration_and_competition/blob/main/Score%20plot.png" width="400" height="300">
 
 
-<img src="https://github.com/ga32riv/Project-3-collaboration_and_competition/blob/main/Average%20plot.png" width="400" height="400">
+<img src="https://github.com/ga32riv/Project-3-collaboration_and_competition/blob/main/Average%20plot.png" width="400" height="300">
 
 
 ## Ideas for Future Work
